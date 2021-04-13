@@ -13,4 +13,5 @@ playsound模块只提供了一个播放功能
 
 
 弃坑playsound了,用pygame它不香吗,pygame自带线程播放功能,完全符合功能需求
+
 pygame测试代码demo_new.py
